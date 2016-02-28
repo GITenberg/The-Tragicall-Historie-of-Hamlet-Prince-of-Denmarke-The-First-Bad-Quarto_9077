@@ -1,0 +1,40 @@
+_repo: The-Tragicall-Historie-of-Hamlet-Prince-of-Denmarke-The-First-Bad-Quarto_9077
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspere, William
+    - Shakspeare, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: Page proofs edited by John Dover Wilson, from the text of the second
+  quarto. With the stories by Saxo Grammaticus and Belle-forest, each with an English
+  translation, printed as consecutive borders to Shakespeare's text. Together with
+  the editor's proof of textual notes, for a pocket at the end, the reader's proof
+  of textual notes, pp. 25-31 only, and sample sheets of the German version, the Cranach
+  Hamlet of 1929. The text illustrated by wood engravings by Edward Gordon Craig.
+gutenberg_bookshelf: Best Books Ever Listings
+gutenberg_issued: '2005-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9077'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Princes -- Drama'
+- !lcsh 'Denmark -- Drama'
+- !lcsh 'Murder victims'' families -- Drama'
+- !lcsh 'Kings and rulers -- Succession -- Drama'
+- !lcsh 'Hamlet (Legendary character) -- Drama'
+- !lcsh 'Fathers -- Death -- Drama'
+- !lcsh 'Revenge -- Drama'
+- !lcsh 'Tragedies'
+- !lcc 'PR'
+title: "The Tragicall Historie of Hamlet, Prince of Denmarke\r\nThe First ('Bad')\
+  \ Quarto"
+url: http://www.gutenberg.org/ebooks/9077
